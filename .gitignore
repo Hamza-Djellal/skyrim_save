@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Skyrim conversion outputs & temporary data
+output/
+*.DAT
+*.ess
+*.zip
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
